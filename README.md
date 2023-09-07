@@ -8,3 +8,7 @@ This is the Teleport Community Edition.
 
 This is probably not for production use, since it is a single-instance
 Teleport cluster.
+
+According to Teleport, there is also [Teleport Labs](https://goteleport.com/labs/):
+
+> If you want to get a feel for Teleport commands and capabilities without setting up any infrastructure, take a look at the browser-based [Teleport Labs](https://goteleport.com/labs/).
